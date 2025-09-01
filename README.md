@@ -1,9 +1,9 @@
 # sound-json-transfer
 Transferring JSON from phone to phone(s) through sounds. Experiments to see if it will work.
 
-## Issue #1
+## Issue #1 - Generating, playing, receiving and checking sounds
 
-Idea:
+[Idea](https://github.com/eklem/sound-json-transfer/issues/2):
 
 **Transmitting end:**
 
@@ -27,3 +27,7 @@ Part of the work will be to see how many different tones it is possible to trans
 
 How to generate tones and play them:
 https://stackoverflow.com/questions/39200994/how-to-play-a-specific-frequency-with-javascript
+
+## Issue #2 - Encrypting the sounds
+
+If issue 1 works, try to [encrypt the sounds](https://github.com/eklem/sound-json-transfer/issues/2)
