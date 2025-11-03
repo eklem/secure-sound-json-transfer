@@ -1,4 +1,4 @@
-# p2p-secure-sound-json-transfer
+# p2p-json-sound-transfer
 Transferring JSON from phone to phone(s) through sound. And encrypt the characters before transferred as sound. Experiments to see if it will work.
 
 ## Issue #1 - Generating, playing, receiving and checking sounds
